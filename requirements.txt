@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain-pinecone 
+pinecone-text
+pinecone
+pinecone-notebooks
+langchain_community
+langchain_core
+langchain
+langchain_nvidia_ai_endpoints
+langchain_huggingface
